@@ -1,0 +1,1309 @@
+fileFormatVersion: 2
+guid: 88261e9b0e83c9c4d8f3dd3434c71c42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -359664649116728568
+    second: waiters_0
+  - first:
+      213: -6783127761505036426
+    second: waiters_1
+  - first:
+      213: -868470295392614178
+    second: waiters_2
+  - first:
+      213: -6765819714953818829
+    second: waiters_3
+  - first:
+      213: 4864793354385437703
+    second: waiters_4
+  - first:
+      213: -2680148195304054326
+    second: waiters_5
+  - first:
+      213: -691403020124542316
+    second: waiters_6
+  - first:
+      213: 5468985434912095826
+    second: waiters_7
+  - first:
+      213: -5747670080707249534
+    second: waiters_8
+  - first:
+      213: 6568200992751083508
+    second: waiters_9
+  - first:
+      213: -4986185472397426290
+    second: waiters_10
+  - first:
+      213: -7468020969772700810
+    second: waiters_11
+  - first:
+      213: -2443994256903637030
+    second: waiters_12
+  - first:
+      213: 2151505805426264140
+    second: waiters_13
+  - first:
+      213: -4389142098424205169
+    second: waiters_14
+  - first:
+      213: -177670255823294811
+    second: waiters_15
+  - first:
+      213: 6053663575830531164
+    second: waiters_16
+  - first:
+      213: -7021672018284712108
+    second: waiters_17
+  - first:
+      213: -7706267036938222976
+    second: waiters_18
+  - first:
+      213: 5743082978888927633
+    second: waiters_19
+  - first:
+      213: 5412021154634922118
+    second: waiters_20
+  - first:
+      213: -1404277956938229170
+    second: waiters_21
+  - first:
+      213: -1661686843723160031
+    second: waiters_22
+  - first:
+      213: -5639583916591812987
+    second: waiters_23
+  - first:
+      213: -513688969700224278
+    second: waiters_24
+  - first:
+      213: 249497229984305045
+    second: waiters_25
+  - first:
+      213: -1210940101678756139
+    second: waiters_26
+  - first:
+      213: 2445655511185023617
+    second: waiters_27
+  - first:
+      213: -5151668501621030720
+    second: waiters_28
+  - first:
+      213: 5137588290987485548
+    second: waiters_29
+  - first:
+      213: 4847293727055217474
+    second: waiters_30
+  - first:
+      213: -6740949238797988608
+    second: waiters_31
+  - first:
+      213: 270499077925053291
+    second: waiters_32
+  - first:
+      213: -3565677991694915540
+    second: waiters_33
+  - first:
+      213: 3259534891113319795
+    second: waiters_34
+  - first:
+      213: 7451675984289250881
+    second: waiters_35
+  - first:
+      213: -7595216184047997648
+    second: waiters_36
+  - first:
+      213: -6412144118822384368
+    second: waiters_37
+  - first:
+      213: 7874088633982857228
+    second: waiters_38
+  - first:
+      213: -2784470407014621073
+    second: waiters_39
+  - first:
+      213: 606567744097425472
+    second: waiters_40
+  - first:
+      213: 9170120332048146085
+    second: waiters_41
+  - first:
+      213: -8830586002669044113
+    second: waiters_42
+  - first:
+      213: 6527506446643105042
+    second: waiters_43
+  - first:
+      213: -7495456629310043843
+    second: waiters_44
+  - first:
+      213: -1843859056512412501
+    second: waiters_45
+  - first:
+      213: -3934062100253262265
+    second: waiters_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: waiters_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 468
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803c12f38e6320bf0800000000000000
+      internalID: -359664649116728568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 468
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677d66d4d3d7dd1a0800000000000000
+      internalID: -6783127761505036426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 468
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed805212ed292f3f0800000000000000
+      internalID: -868470295392614178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 468
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dc7dbe0dafa12a0800000000000000
+      internalID: -6765819714953818829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 468
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70433d1f7c7338340800000000000000
+      internalID: 4864793354385437703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 468
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac16f799a633ecad0800000000000000
+      internalID: -2680148195304054326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_6
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 465
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a28dccd94a766f0800000000000000
+      internalID: -691403020124542316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_7
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 465
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e78b1f64db5eb40800000000000000
+      internalID: 5468985434912095826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 465
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28abd49938c2c30b0800000000000000
+      internalID: -5747670080707249534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 381
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffdb4ac000f62b50800000000000000
+      internalID: 6568200992751083508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 381
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81c9851bb28dcab0800000000000000
+      internalID: -4986185472397426290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 381
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ba789ce724c5890800000000000000
+      internalID: -7468020969772700810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 381
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7f9241c20351ed0800000000000000
+      internalID: -2443994256903637030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 381
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c488f90812fabdd10800000000000000
+      internalID: 2151505805426264140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 111
+        width: 313
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8076b22482a613c0800000000000000
+      internalID: -4389142098424205169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 292
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aeef7af7d9c88df0800000000000000
+      internalID: -177670255823294811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 292
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c8913d2fee20450800000000000000
+      internalID: 6053663575830531164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 292
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fe6d470820e8e90800000000000000
+      internalID: -7021672018284712108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 292
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082cefe95f6dd0590800000000000000
+      internalID: -7706267036938222976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_19
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 292
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19944488a8783bf40800000000000000
+      internalID: 5743082978888927633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_20
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 292
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688f9e6e09c5b1b40800000000000000
+      internalID: 5412021154634922118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_21
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 292
+        width: 71
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a19ca63a0038ce0800000000000000
+      internalID: -1404277956938229170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 208
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126e0ff9e9080f8e0800000000000000
+      internalID: -1661686843723160031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_23
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 208
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ee982ce4c2cb1b0800000000000000
+      internalID: -5639583916591812987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 208
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae25bfb8a920fd8f0800000000000000
+      internalID: -513688969700224278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 208
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f88a5a864667300800000000000000
+      internalID: 249497229984305045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 208
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de8923b460e13fe0800000000000000
+      internalID: -1210940101678756139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_27
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 208
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182e823dab6b0f120800000000000000
+      internalID: 2445655511185023617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 111
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c04f40eac89188b0800000000000000
+      internalID: -5151668501621030720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 111
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69e38e94516c4740800000000000000
+      internalID: 5137588290987485548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 111
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2430b1376fb054340800000000000000
+      internalID: 4847293727055217474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_31
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 111
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d8184e1665372a0800000000000000
+      internalID: -6740949238797988608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_32
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 124
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b632bcb6a7101c300800000000000000
+      internalID: 270499077925053291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_33
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 111
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28a89122ca248ec0800000000000000
+      internalID: -3565677991694915540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_34
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 111
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d0dc5b6b13c3d20800000000000000
+      internalID: 3259534891113319795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_35
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 111
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ebed8b3dba96760800000000000000
+      internalID: 7451675984289250881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_36
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 24
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d658d2f1f589690800000000000000
+      internalID: -7595216184047997648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_37
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 24
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d4bfc95ec7307a0800000000000000
+      internalID: -6412144118822384368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_38
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 24
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c003d76d4e1664d60800000000000000
+      internalID: 7874088633982857228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_39
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 24
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f606e46eae29b59d0800000000000000
+      internalID: -2784470407014621073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_40
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 24
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04813274626fa6800800000000000000
+      internalID: 606567744097425472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_41
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 24
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae115b4bdfc24f70800000000000000
+      internalID: 9170120332048146085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_42
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 24
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eff5821d4737580800000000000000
+      internalID: -8830586002669044113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_43
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 24
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d0c3d678c569a50800000000000000
+      internalID: 6527506446643105042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_44
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 24
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39c0a488e9caf790800000000000000
+      internalID: -7495456629310043843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_45
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 24
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4d0b015fb4966e0800000000000000
+      internalID: -1843859056512412501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiters_46
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 24
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eb3160d576769c0800000000000000
+      internalID: -3934062100253262265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      waiters_19: 5743082978888927633
+      waiters_26: -1210940101678756139
+      waiters_13: 2151505805426264140
+      waiters_24: -513688969700224278
+      waiters_10: -4986185472397426290
+      waiters_38: 7874088633982857228
+      waiters_12: -2443994256903637030
+      waiters_21: -1404277956938229170
+      waiters_27: 2445655511185023617
+      waiters_36: -7595216184047997648
+      waiters_20: 5412021154634922118
+      waiters_40: 606567744097425472
+      waiters_45: -1843859056512412501
+      waiters_44: -7495456629310043843
+      waiters_37: -6412144118822384368
+      waiters_46: -3934062100253262265
+      waiters_25: 249497229984305045
+      waiters_22: -1661686843723160031
+      waiters_0: -359664649116728568
+      waiters_29: 5137588290987485548
+      waiters_32: 270499077925053291
+      waiters_34: 3259534891113319795
+      waiters_30: 4847293727055217474
+      waiters_31: -6740949238797988608
+      waiters_42: -8830586002669044113
+      waiters_6: -691403020124542316
+      waiters_5: -2680148195304054326
+      waiters_11: -7468020969772700810
+      waiters_35: 7451675984289250881
+      waiters_18: -7706267036938222976
+      waiters_2: -868470295392614178
+      waiters_16: 6053663575830531164
+      waiters_7: 5468985434912095826
+      waiters_17: -7021672018284712108
+      waiters_9: 6568200992751083508
+      waiters_4: 4864793354385437703
+      waiters_43: 6527506446643105042
+      waiters_3: -6765819714953818829
+      waiters_33: -3565677991694915540
+      waiters_41: 9170120332048146085
+      waiters_23: -5639583916591812987
+      waiters_15: -177670255823294811
+      waiters_8: -5747670080707249534
+      waiters_39: -2784470407014621073
+      waiters_14: -4389142098424205169
+      waiters_28: -5151668501621030720
+      waiters_1: -6783127761505036426
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
